@@ -111,3 +111,10 @@ eg MD5. Each method grows in size, improving security and reducing the risk of h
 'ad0234829205b9033196ba818f7a872b'
 ```
 
+# Question 5
+[live](https://sammy-filter.herokuapp.com/)
+[repo](https://github.com/sir-meee/django-filter-system)
+
+
+A Django search and results page using PosgreSQL. I have made the search system more dynamic by creating different filtering methods such as by date, category, view count, and review. The data being filtered can be found in the titles.txt file in the repo. I created a custom command to load this data onto the database.
+
